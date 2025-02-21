@@ -10,6 +10,8 @@ Ensure you have the following import for reflection:
 
 ```java
 import java.lang.reflect.Field;
+import android.graphics.drawable.Drawable;
+```
 
 💡 Note: In Sketchware, importing android.graphics.drawable.Drawable is unnecessary.
 
