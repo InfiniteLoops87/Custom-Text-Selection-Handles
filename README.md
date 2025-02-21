@@ -13,8 +13,12 @@ import java.lang.reflect.Field;
 import android.graphics.drawable.Drawable;
 ```
 
-💡 Note: In Sketchware, importing android.graphics.drawable.Drawable is unnecessary.
+---
 
+📱 Some screenshots:
+
+![photo_2025-02-21_11-29-12](https://github.com/user-attachments/assets/8995f7ce-65e1-4657-9181-be52c8e2c89f)
+![photo_2025-02-21_11-29-13](https://github.com/user-attachments/assets/8d8e8b97-8f94-4b96-a9cf-d29de91f03e1)
 
 ---
 
