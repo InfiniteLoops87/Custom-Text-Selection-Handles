@@ -1,0 +1,29 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<EditText
+		android:id="@+id/edittexttittle"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:background="@android:color/transparent"
+		android:textSize="50sp"
+		android:textColor="#000000"
+		android:hint="Title"
+		android:textColorHint="#7986CB"
+		android:singleLine="true" />
+	<EditText
+		android:id="@+id/edittext1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:background="@android:color/transparent"
+		android:textSize="20sp"
+		android:textColor="#000000"
+		android:hint="Type something..."
+		android:textColorHint="#7986CB" />
+</LinearLayout>
