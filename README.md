@@ -5,20 +5,16 @@ This snippet allows you to **customize the default text selection handles** in A
 
 ---
 
-## 📦 Required Imports  
-Ensure you have the following import for reflection:  
-
-```java
-import java.lang.reflect.Field;
-import android.graphics.drawable.Drawable;
-```
-
----
-
 📱 Some screenshots:
 
 ![photo_2025-02-21_11-29-12](https://github.com/user-attachments/assets/8995f7ce-65e1-4657-9181-be52c8e2c89f)
 ![photo_2025-02-21_11-29-13](https://github.com/user-attachments/assets/8d8e8b97-8f94-4b96-a9cf-d29de91f03e1)
+
+➡️ check here for source code:
+https://github.com/InfiniteLoops87/Custom-Text-Selection-Handles/blob/main/CustTxtFThumb/app/src/main/java/com/inflps/customtextfieldthumb/MainActivity.java
+
+➡️ drawable resources:
+https://github.com/InfiniteLoops87/Custom-Text-Selection-Handles/tree/main/CustTxtFThumb/app/src/main/res/drawable
 
 ---
 
