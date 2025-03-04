@@ -1,8 +1,6 @@
 # Custom Text Selection Handles - Documentation
 
 ## Purpose This snippet allows you to **customize the default text selection handles** in Android's `TextView` and `EditText`. Using **reflection**, it replaces the standard selection handles with **custom drawable resources**.
-
-
 ---
 
 ## Screenshots
@@ -30,8 +28,6 @@ You can modify the following selection handles:
 
 * **Middle Handle**: `mTextSelectHandleRes` 
 
-
-
 ---
 
 ## Compatibility with Other Views
@@ -52,7 +48,6 @@ You can modify the following selection handles:
 
 > For custom views, consider implementing your own selection mechanism using `onTouchListener`.
 
-
 ---
 
 ## How It Works
@@ -65,15 +60,11 @@ You can modify the following selection handles:
 
 * Updates the `mEditor` object dynamically to apply the changes.
 
-
-
-
 ---
 
 ## Disadvantages & Considerations
 
 > Warning: Reflection involves accessing private fields, which may break in future Android versions. > > Warning: Some devices may not support this modification, leading to compatibility issues. > > Warning: Reflection is slower compared to direct API usage and may impact performance. > > Warning: Google discourages modifying private fields via reflection, limiting official support.
-
 
 ---
 
@@ -85,8 +76,6 @@ You can modify the following selection handles:
 
 * Keep **backup implementations** in case the method stops working.
 
-
-
 ---
 
 ## Alternative Solutions
@@ -96,8 +85,6 @@ You can modify the following selection handles:
 * **Third-Party Libraries**: Some libraries provide custom selection functionality.
 
 * **Custom Text Editor**: Create a custom selection UI for better control.
-
-
 
 ---
 
