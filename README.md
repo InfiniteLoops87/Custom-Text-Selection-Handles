@@ -46,6 +46,7 @@ You can modify the following selection handles:
 * Buttons, Checkboxes, or Custom Views
 
 
+> [!NOTE]
 > For custom views, consider implementing your own selection mechanism using `onTouchListener`.
 
 ---
@@ -64,10 +65,10 @@ You can modify the following selection handles:
 
 ## Disadvantages & Considerations
 
-> [!WARNING]
+> [!CAUTION]
 > Reflection involves accessing private fields, which may break in future Android versions.
 
-> [!WARNING]
+> [!CAUTION]
 > Some devices may not support this modification, leading to compatibility issues.
 
 > [!WARNING]
