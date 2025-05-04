@@ -64,7 +64,13 @@ You can modify the following selection handles:
 
 ## Disadvantages & Considerations
 
-> Warning: Reflection involves accessing private fields, which may break in future Android versions. > > Warning: Some devices may not support this modification, leading to compatibility issues. > > Warning: Reflection is slower compared to direct API usage and may impact performance. > > Warning: Google discourages modifying private fields via reflection, limiting official support.
+> [!WARNING]: Reflection involves accessing private fields, which may break in future Android versions. > 
+
+> [!WARNING]: Some devices may not support this modification, leading to compatibility issues. > 
+
+> [!WARNING]: Reflection is slower compared to direct API usage and may impact performance. > 
+
+> [!WARNING]: Google discourages modifying private fields via reflection, limiting official support.
 
 ---
 
