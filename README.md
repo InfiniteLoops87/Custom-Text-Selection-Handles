@@ -34,13 +34,13 @@ You can modify the following selection handles:
 
 ### Works For:
 
-[x] `TextView`
+- [x] `TextView`
 
-[x] `EditText`
+- [x] `EditText`
 
-[ ] `WebView` 
+- [ ] `WebView` 
 
-[ ] Buttons, Checkboxes, or Custom Views
+- [ ] Buttons, Checkboxes, or Custom Views
 
 
 > [!NOTE]
