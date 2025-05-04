@@ -32,7 +32,7 @@ You can modify the following selection handles:
 
 ## Compatibility with Other Views
 
-### Works For:
+### Works For (Only checked ones):
 
 - [x] `TextView`
 
