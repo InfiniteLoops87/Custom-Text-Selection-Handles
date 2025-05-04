@@ -34,16 +34,13 @@ You can modify the following selection handles:
 
 ### Works For:
 
-* `TextView`
+[x] `TextView`
 
-* `EditText`
+[x] `EditText`
 
+[ ] `WebView` 
 
-### Does Not Work For:
-
-* `WebView` 
-
-* Buttons, Checkboxes, or Custom Views
+[ ] Buttons, Checkboxes, or Custom Views
 
 
 > [!NOTE]
