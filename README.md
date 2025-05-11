@@ -9,7 +9,6 @@
 ![photo_2025-02-21_11-29-13](https://github.com/user-attachments/assets/8d8e8b97-8f94-4b96-a9cf-d29de91f03e1)
 
 
-
 ## Source code
 
 * [MainActivity.java](https://github.com/InfiniteLoops87/Custom-Text-Selection-Handles/blob/main/CustTxtFThumb/app/src/main/java/com/inflps/customtextfieldthumb/MainActivity.java)
