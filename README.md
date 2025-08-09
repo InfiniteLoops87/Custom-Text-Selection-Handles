@@ -61,10 +61,10 @@ You can modify the following selection handles:
 
 ## Disadvantages & Considerations
 
-> [!CAUTION]
+> [!WARNING]
 > Reflection involves accessing private fields, which may break in future Android versions.
 
-> [!CAUTION]
+> [!WARNING]
 > Some devices may not support this modification, leading to compatibility issues.
 
 > [!WARNING]
